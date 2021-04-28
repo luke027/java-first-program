@@ -10,6 +10,7 @@ public class BestLoanRates {
             3, 2.67f
     );
 
+
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter your name");
